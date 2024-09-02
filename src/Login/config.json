@@ -1,0 +1,20 @@
+[
+    {
+        "lbl":"User Id",
+        "lblCols":"5",
+        "name":"uid",
+        "type":"text",
+        "inputCols":"3",
+        "errorMsg":"Enter user Id",
+        "errMsgCols":"4"
+    },
+    {
+        "lbl":"Password",
+        "lblCols":"5",
+        "name":"pwd",
+        "type":"password",
+        "inputCols":"3",
+        "errorMsg":"Enter user Password",
+        "errMsgCols":"4"
+    }
+]
