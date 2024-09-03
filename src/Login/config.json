@@ -6,7 +6,10 @@
         "type":"text",
         "inputCols":"3",
         "errorMsg":"Enter user Id",
-        "errMsgCols":"4"
+        "errMsgCols":"4",
+        "hasError":false,
+        "value":"",
+        "isRequired":true
     },
     {
         "lbl":"Password",
@@ -15,6 +18,9 @@
         "type":"password",
         "inputCols":"3",
         "errorMsg":"Enter user Password",
-        "errMsgCols":"4"
+        "errMsgCols":"4",
+        "hasError":false,
+        "value":"",
+        "isRequired":true
     }
 ]
