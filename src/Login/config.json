@@ -9,7 +9,11 @@
         "errMsgCols":"4",
         "hasError":false,
         "value":"",
-        "isRequired":true
+        "isRequired":true,
+        "criteria":[
+            "REQUIRED",
+            "EMAIL"
+        ]
     },
     {
         "lbl":"Password",
@@ -21,6 +25,10 @@
         "errMsgCols":"4",
         "hasError":false,
         "value":"",
-        "isRequired":true
+        "isRequired":true,
+        "criteria":[
+            "REQUIRED",
+            "MIN5CHAR"
+        ]
     }
 ]
