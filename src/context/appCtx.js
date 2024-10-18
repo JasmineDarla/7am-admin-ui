@@ -1,5 +1,6 @@
-import {createContext} from 'react';
 
-export  const appCtx = createContext();
+import { createContext } from "react";
 
-export const {Provider}=appCtx
+export const appCtx = createContext();
+
+export const { Provider } = appCtx
